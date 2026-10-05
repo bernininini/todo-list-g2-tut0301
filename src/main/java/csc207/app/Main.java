@@ -3,6 +3,7 @@ package csc207.app;
 import csc207.todo_list.TodoListPanel;
 
 import javax.swing.*;
+import java.awt.*;
 
 public class Main {
     /**
