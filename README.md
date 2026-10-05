@@ -70,6 +70,7 @@ Now find the code that implements the **Mark a todo item as done** user story.
 While investigating that code, answer:
 
 - What Java type represents a todo item?
+
 - How is a todo item's completion status represented?
 - How can the program tell whether a todo item is completed when it saves the data?
 - What do you think of this current representation?
